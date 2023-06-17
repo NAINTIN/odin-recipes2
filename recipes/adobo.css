@@ -1,0 +1,46 @@
+body {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+h1 {
+
+    color: blue;
+}
+
+.container .recipe-website{
+
+    background-color: grey;
+
+}
+
+.recipe-website img {
+
+    margin: auto;
+    display: block;
+}
+
+.recipe-content{
+
+    text-align: center;
+    
+}
+
+h2 {
+
+    color: brown;
+}
+
+li {
+
+    color: brown;
+}
+
+p {
+
+    color: green;
+}
+
+
